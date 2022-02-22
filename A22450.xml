@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At White-Hall the foure and twentieth of October, 1627 present [brace] Lo. Keeper, Lo. Treasurer, Lo. President, Lo. Steward, Lo. Chamberlaine, E. of Suffolke, E. of Exeter, E. of Dorset, E. of Bridgewater, E. of Totnes, E. of Kellie, Lo. Visc. Conwey, Lo. Bishop of Bath and Wells, M. Treasurer, M. of the Wards, M. Secr. Coke, M. Chancelor of the Exchequer, M. of the Rolles, M. Chancelour of the Duchie.</title>
+            <author>England and Wales. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1627</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22450</idno>
+            <idno type="STC">STC 8868</idno>
+            <idno type="STC">ESTC S3093</idno>
+            <idno type="EEBO-CITATION">33142618</idno>
+            <idno type="OCLC">ocm 33142618</idno>
+            <idno type="VID">28152</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22450)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28152)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1876:95)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At White-Hall the foure and twentieth of October, 1627 present [brace] Lo. Keeper, Lo. Treasurer, Lo. President, Lo. Steward, Lo. Chamberlaine, E. of Suffolke, E. of Exeter, E. of Dorset, E. of Bridgewater, E. of Totnes, E. of Kellie, Lo. Visc. Conwey, Lo. Bishop of Bath and Wells, M. Treasurer, M. of the Wards, M. Secr. Coke, M. Chancelor of the Exchequer, M. of the Rolles, M. Chancelour of the Duchie.</title>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton and Iohn Bill, Printers to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1627.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>M. de Quester to handle all overseas mail except letters between merchant adventurers and staple towns of Hamburg and Delft.</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quester, Matthew de.</term>
+               <term>Billingsley, Henry.</term>
+               <term>Company of Merchant Adventurers of England.</term>
+               <term>Postal service --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:28152:1"/>
+            <!-- PDF PAGE 1 -->
+            <opener>
+               <dateline>¶ At White-hall <date>the foure and twentieth of October 1627.</date>
+               </dateline>
+            </opener>
+            <head>Preſent
+<list>
+                  <item>Lo: Keeper.</item>
+                  <item>Lo: Treaſurer.</item>
+                  <item>Lo: Preſident.</item>
+                  <item>Lo: Steward.</item>
+                  <item>Lo: Chamberlaine.</item>
+                  <item>E: of Suffolke.</item>
+                  <item>E: of Exeter.</item>
+                  <item>E: of Dorſet.</item>
+                  <item>E: of Bridgewater.</item>
+                  <item>E: of Totnes.</item>
+                  <item>E: of Kellie.</item>
+                  <item>Lo: <g ref="char:V">Ʋ</g>iſc. Conwey.</item>
+                  <item>Biſhop of Bath and Wells.</item>
+                  <item>M. Treaſurer.</item>
+                  <item>M. of the Wards.</item>
+                  <item>M. Secr. Coke.</item>
+                  <item>M. Chancelor of the Exchequer.</item>
+                  <item>M. of the Rolles.</item>
+                  <item>M. Chancelour of the Duchie.</item>
+               </list>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Heir Lordſhip this day taking into ſerious conſideration, aſwell the Letters Patents from His Maieſtie to <hi>Mathew de Queſtor,</hi> for the conſtituting of him Poſt-maſter, for the conuey<g ref="char:EOLhyphen"/>ing of all Letters and Diſpatches from hence into forraigne Parts without the Kings Domi<g ref="char:EOLhyphen"/>nions; as likewiſe well weighing that the due ordering and gouerning of the ſame, was very conſiderable, in relation to His Maieſties Seruice and reaſon of State, eſpecially as the condi<g ref="char:EOLhyphen"/>tion of affaires now ſtand, both at home and abroad; and knowing well that moſt of the Forraigne Poſts were heretofore well ſetled, by the labour and induſtrie of the ſaid <hi>de Questor,</hi> did thinke fit and order, that he being a perſon well approoued of for his experience, fidelity, and induſtrie, for diuers yeeres together in the diſcharge of the ſaid imployment, ſhould bee continued and quietly eſtabliſhed in the execution of the ſame, according to his ſaid Letters Patents. And vpon reuiew now taken of their Order, of the two and twentieth of Nouember 1626. wherein liberty was giuen, as well to all other Companies of Merchants, as to the Merchants Aduenturers, to ſend their Letters and Diſpatches by Meſſengers of their owne chooſing;</p>
+            <p>Their Lordſhips vpon weightie reaſon of State, doe heereby reuoke and annull the ſaid Order, and doe giue liberty onely to the Companie of the Merchants Aduenturers (and not to any other Companies of Merchants) to conuey their owne Letters and Diſpatches onely by a Meſſenger of their owne chooſing into Forraigne Parts, <hi>viz.</hi> to the City of <hi>Hamborgh</hi> and Towne of <hi>Delph,</hi> where the Staples of Cloth are now ſetled, or to ſuch other place or places whither the ſame ſhall heereafter happen to bee remooued: Which Meſſenger is likewiſe to enter into ſufficient Bond with good ſureties, to His Maieſties vſe, to bee taken by the Clarke of the Councell attendant, not to carry or conuey any other Letters, but thoſe onely which concerne the ſaid Companie of Merchant Aduenturers.</p>
+            <p>And that the ſaid Meſſenger ſhall not keepe any publike Office, or hang vp any Tables, or weare any Badge which are the Characters and Markes of a publike Poſt-maſter, and which are to bee allowed onely to the ſaid <hi>Matthew de Questor,</hi> as being Poſt-maſter Generall for foreigne Diſpatches, by approbation of the State, and Letters Patents from His Maieſtie, as aforeſaid.</p>
+            <p>And it is further heereby thought fit, and ordered, that all other Companies of Merchants, and euery of them, ſhall ſend their Letters and Diſpatches by the ſaid <hi>Matthew de Questor</hi> onely, as heretofore they haue been accuſtomed; Heereof as well the ſaid Merchants Aduenturers, and all other Companies of Merchants, and euery of them, are to take knowledge, and to conforme themſelues, as they will anſwere the contrary at their perils.</p>
+            <p>Prouided neuertheleſſe, according to the aforeſaid Order of the two and twentieth of Nouember laſt, that the ſaid Companie of Merchant Aduenturers, doe acquaint His Maieſties Secretaries of State, from time to time, what perſon they ſhall make choice of to bee their Meſſenger, that in caſe they ſhall finde iuſt cauſe to except againſt the choyce made by the ſaid Company, that then the Company ſhould proceed to the election of ſuch other as may bee with<g ref="char:EOLhyphen"/>out exception. And prouided alſo, that in times of Warre, and danger to the State, the ſaid Company of Merchant Aduenturers, and all other Companies of Merchants, doe acquaint the Secretaries of State, from time to time (if they ſhall require it) with their ſaid Letters and Diſpatches into foreine parts.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton, and Iohn Bill, Printers to the Kings moſt Excellent Maieſtie. 1627.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
